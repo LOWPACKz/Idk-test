@@ -1,3 +1,0 @@
-git add .
-git commit -m "Set up GitHub Actions for APK build"
-git push origin main
